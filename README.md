@@ -2,6 +2,7 @@
 # Understand the black-box - Explainable Machine Learning techniques
 
 Interpretable ML Demonstration
+Link to my Medium: https://medium.com/@kirudang/interpretable-machine-learning-8fe142ac6ab7
 
 ## Description
 
